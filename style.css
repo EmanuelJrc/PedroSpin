@@ -1,0 +1,32 @@
+
+h1{
+    text-align: center;
+}
+
+.spinner{
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    border-radius: 20rem;
+}
+
+h2{
+    text-align: center;
+}
+
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+}
+
+#disco-background {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+}
